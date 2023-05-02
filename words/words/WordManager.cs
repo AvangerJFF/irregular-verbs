@@ -51,25 +51,43 @@ namespace words
 
         
 
-        public int Validation(List<Word> word1, Word userWord)
+        public int Validation(List<Word> groupWords, Word userWord)
         {
             int count = 0;
-            for (int i = 0; i < word1.Count; i++)
+            for (int i = 0; i < groupWords.Count; i++)
             {
-                Word word3 = userWord;
-                Word word4 = word1[0];
-                //if (userWord.Equals(word1[i])){
-                //    count++; 
-                bool test = word3.Equals(word4);
-                if (test) {
-                    first.Add(word1[i]);
-                    second.Add(userWord);
-
-
+                if (Equals(userWord.GetType().GetProperties().GetValue(0), groupWords[i].GetType().GetProperties().GetValue(0)))
+                {
                     count++;
                 }
+                if (EqualsTwoWords(userWord, groupWords[i]))
+                {
+                    count++;
+                }
+                
             }
             return count;
+        }
+
+        public bool EqualsTwoWords(Word firstWord, Word secondWord)
+        {
+            bool state = false;
+
+            if (firstWord.ruWord.Equals(secondWord.ruWord))
+            {
+                if (firstWord.firstForm.Equals(secondWord.firstForm))
+                {
+                    if (firstWord.secondForm.Equals(secondWord.secondForm))
+                    {
+                        if (firstWord.thirdForm.Equals(secondWord.thirdForm))
+                        {
+                            state = true;
+                        }
+                    }
+                }
+            }
+
+            return state;
         }
     }
 }

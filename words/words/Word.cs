@@ -12,6 +12,7 @@ namespace words
         public string secondForm { get; set; }
         public string thirdForm { get; set; }
 
+
         public Word()
         {
 
