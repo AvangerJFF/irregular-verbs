@@ -1,0 +1,8 @@
+знать;know;knew;known;
+показывать;show;showed;shown;
+пилить;saw;sawed;sawn;
+дуть;blow;blew;blown;
+летать;fly;flew;flown;
+расти;grow;grew;grown;
+тащить;рисовать;draw;drew;drawn;
+бросить;throw;threw;thrown;
