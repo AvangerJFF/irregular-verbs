@@ -1,0 +1,16 @@
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.exe
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.deps.json
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.runtimeconfig.json
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.runtimeconfig.dev.json
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.dll
+C:\Users\Fantomext\source\repos\words\words\bin\Debug\netcoreapp3.1\words.pdb
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.csproj.AssemblyReference.cache
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.Form1.resources
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.csproj.GenerateResource.cache
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.AssemblyInfoInputs.cache
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.AssemblyInfo.cs
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.csproj.CoreCompileInputs.cache
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.dll
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.pdb
+C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.genruntimeconfig.cache
