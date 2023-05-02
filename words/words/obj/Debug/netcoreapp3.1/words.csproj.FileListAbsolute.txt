@@ -14,3 +14,19 @@ C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.csproj
 C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.dll
 C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.pdb
 C:\Users\Fantomext\source\repos\words\words\obj\Debug\netcoreapp3.1\words.genruntimeconfig.cache
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.csproj.AssemblyReference.cache
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.Form1.resources
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.csproj.GenerateResource.cache
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.AssemblyInfoInputs.cache
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.AssemblyInfo.cs
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.csproj.CoreCompileInputs.cache
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.dll
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.pdb
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.exe
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.deps.json
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.runtimeconfig.json
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.runtimeconfig.dev.json
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.dll
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\bin\Debug\netcoreapp3.1\words.pdb
+C:\Disk S\HorrorGame\Git\irregular-verbs\words\words\obj\Debug\netcoreapp3.1\words.genruntimeconfig.cache

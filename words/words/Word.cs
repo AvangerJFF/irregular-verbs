@@ -22,7 +22,9 @@ namespace words
             this.firstForm = firstForm;
             this.secondForm = secondForm;
             this.thirdForm = thirdForm;
+
         }
+ 
 
     }
 }

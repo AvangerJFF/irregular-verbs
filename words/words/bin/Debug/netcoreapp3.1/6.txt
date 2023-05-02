@@ -1,0 +1,18 @@
+быть, являться;be;was;were;been;
+делать;do;did;done;
+идти, уходить;go;went;gone;
+вскочить, возникнуть;spring;sprang;sprung;
+звонить;ring;rang;rung;
+начать;begin;began;begun;
+родить;bear;bore;born;
+носить одежду;wear;wore;worn;
+пить, выпить;drink;drank;drunk;
+лежать;lie;lay;lain;
+петь;sing;sang;sung;
+плыть;swim;swam;swum;
+опускаться, погружаться;тонуть;sink;sank;sunk;
+рвать;tear;tore;torn;
+благословлять;bless;blessed;blest;
+сокращаться, сжиматься;shrink;shrank;shrunk;
+поклясться, присягнуть;swear;swore;sworn;
+вонять;stink;stank

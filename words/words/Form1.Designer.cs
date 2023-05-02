@@ -29,13 +29,13 @@ namespace words
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.firstFormText = new System.Windows.Forms.TextBox();
+            this.secondFormText = new System.Windows.Forms.TextBox();
+            this.thirdFormText = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.testBox = new System.Windows.Forms.TextBox();
             this.ChooseGroup = new System.Windows.Forms.ComboBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.ruWordText = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -43,26 +43,26 @@ namespace words
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // textBox2
+            // firstFormText
             // 
-            this.textBox2.Location = new System.Drawing.Point(138, 114);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 23);
-            this.textBox2.TabIndex = 1;
+            this.firstFormText.Location = new System.Drawing.Point(138, 114);
+            this.firstFormText.Name = "firstFormText";
+            this.firstFormText.Size = new System.Drawing.Size(100, 23);
+            this.firstFormText.TabIndex = 1;
             // 
-            // textBox3
+            // secondFormText
             // 
-            this.textBox3.Location = new System.Drawing.Point(244, 114);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 23);
-            this.textBox3.TabIndex = 2;
+            this.secondFormText.Location = new System.Drawing.Point(244, 114);
+            this.secondFormText.Name = "secondFormText";
+            this.secondFormText.Size = new System.Drawing.Size(100, 23);
+            this.secondFormText.TabIndex = 2;
             // 
-            // textBox4
+            // thirdFormText
             // 
-            this.textBox4.Location = new System.Drawing.Point(350, 114);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 23);
-            this.textBox4.TabIndex = 3;
+            this.thirdFormText.Location = new System.Drawing.Point(350, 114);
+            this.thirdFormText.Name = "thirdFormText";
+            this.thirdFormText.Size = new System.Drawing.Size(100, 23);
+            this.thirdFormText.TabIndex = 3;
             // 
             // button1
             // 
@@ -88,18 +88,22 @@ namespace words
             this.ChooseGroup.Items.AddRange(new object[] {
             "First group",
             "Second group",
-            "Third Group"});
+            "Third group",
+            "Fourth group",
+            "Fifth group",
+            "Sixth group"});
             this.ChooseGroup.Location = new System.Drawing.Point(32, 42);
             this.ChooseGroup.Name = "ChooseGroup";
             this.ChooseGroup.Size = new System.Drawing.Size(121, 23);
             this.ChooseGroup.TabIndex = 6;
+            this.ChooseGroup.SelectedIndexChanged += new System.EventHandler(this.ChooseGroup_SelectedIndexChanged);
             // 
-            // textBox1
+            // ruWordText
             // 
-            this.textBox1.Location = new System.Drawing.Point(32, 114);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
-            this.textBox1.TabIndex = 7;
+            this.ruWordText.Location = new System.Drawing.Point(32, 114);
+            this.ruWordText.Name = "ruWordText";
+            this.ruWordText.Size = new System.Drawing.Size(100, 23);
+            this.ruWordText.TabIndex = 7;
             // 
             // label1
             // 
@@ -155,13 +159,13 @@ namespace words
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.ruWordText);
             this.Controls.Add(this.ChooseGroup);
             this.Controls.Add(this.testBox);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.thirdFormText);
+            this.Controls.Add(this.secondFormText);
+            this.Controls.Add(this.firstFormText);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -170,13 +174,13 @@ namespace words
         }
 
         #endregion
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox firstFormText;
+        private System.Windows.Forms.TextBox secondFormText;
+        private System.Windows.Forms.TextBox thirdFormText;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox testBox;
         private System.Windows.Forms.ComboBox ChooseGroup;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox ruWordText;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
